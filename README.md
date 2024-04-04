@@ -1,6 +1,6 @@
 # 8-skills-to-be-a-successful-data-scientist
 
-8 Skills Every Data Scientist Should Have 🤗
+8 Skills Every Data Scientist Should Have
 
 Don't be scared to become a Data Scientist, the moment you become a Data Scientist, you are a Rockstar in the Tech Industry.
 
@@ -25,5 +25,3 @@ These are the skills you should have;
 💡 Continuous Learning:  A commitment to continuous learning is essential for staying active. Keep learning and do not stop learning even after getting it.
 
 Considering these technical and soft skills, you'll become a successful data scientist.
-
-Share this with your network, someone might need it. 😍
